@@ -218,7 +218,7 @@ namespace Practica_TP
             web.AddDirectedEdge(san_isidro, san_martin, 19.9);
             web.AddDirectedEdge(san_isidro, vicente_lopez, 16.6);
 
-
+            
             //Console.WriteLine(com1.valor);
             //web.BuscarCamino(com1, com3);
             //web.BuscarCamino(com2, com7);
