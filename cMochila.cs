@@ -1,3 +1,6 @@
+
+
+
 namespace tp_final
 {
     public class cMochila
@@ -7,22 +10,24 @@ namespace tp_final
             public int Weight { get; set; }
             public int Value { get; set; }
         }
-        public static List<Pedido> KnapSack(Pedido[] items, int capacity)
+        public static List<Pedido> KnapSack(Pedido[] items, int capacity, int carga)
         {
             int[,] matrix = new int[items.Length + 1, capacity + 1];
             List<Pedido>[,] matrix2 = new List<Pedido>[items.Length + 1, capacity + 1];
+            
             for (int i = 0; i < items.Length + 1; i++)
             {
                 for (int j = 0; j < capacity + 1; j++)
                     matrix2[i, j] = new List<Pedido>();
             }
-
-            for (int itemIndex = 0; itemIndex <= items.Length; itemIndex++)
+            
+            for (int itemIndex = 0; itemIndex <= items.Length; itemIndex++)//selecciona un pedido
             {
                 // This adjusts the itemIndex to be 1 based instead of 0 based
                 // and in this case 0 is the initial state before an item is
                 // considered for the knapsack.
-                var currentItem = itemIndex == 0 ? null : items[itemIndex - 1];
+                var currentItem = itemIndex == 0 ? null : items[itemIndex - 1];//capacity=volumen
+                int carga_aux = carga;
                 for (int currentCapacity = 0; currentCapacity <= capacity; currentCapacity++)
                 {
                     // Set the first row and column of the matrix to all zeros
@@ -41,8 +46,9 @@ namespace tp_final
                         int a = currentItem.peso_casteado
                                 + matrix[itemIndex - 1, currentCapacity - currentItem.volumen_casteado];
                         int b = matrix[itemIndex - 1, currentCapacity];
-                        if (a > b)
+                        if (a > b && currentItem.peso_casteado<carga_aux)
                         {
+                            carga_aux=currentItem.peso_casteado;
                             matrix2[itemIndex, currentCapacity] = matrix2[itemIndex - 1, currentCapacity - currentItem.volumen_casteado].ToList();
                             matrix2[itemIndex, currentCapacity].Add(currentItem);
 
@@ -80,3 +86,5 @@ namespace tp_final
 
     }
 }
+
+   

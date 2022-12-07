@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace tp_final
 {
-    public class cFurgoneta : cVehiculo
+    public class cCamioneta : cVehiculo
     {
         /// <summary>
-        /// Datos de referencia iniciales para la furgoneta
+        /// Datos de referencia iniciales para la camioneta
         /// </summary>
-        public cFurgoneta() : base(205, 636.3F, 252.4F, 2060) { }
+        public cCamioneta() : base(176, 439.7F, 186, 688) { }
     }
 }

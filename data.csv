@@ -1,161 +1,109 @@
-producto,precio,ancho,largo,alto,peso,prioridad,barrio,template
-monitor,18349.89,71.48,99.74,58.58,178,1,3 de febrero,liniers
-impresoras,57644.43,14.46,99.03,47.06,70,1,agronomia,versalles
-televisor 82,87709.43,34.56,98.13,145.66,108,2,retiro,villa luro
-termotanques,37344.75,38.18,98.01,90.97,84,3,flores,mataderos
-monitor,36310.15,79.52,98,148.58,147,3,versalles,la matanza
-secarropas,32279.94,84.1,97.65,57.06,107,3,monserrat,villa real
-termotanques,42781.24,31.95,94.61,179.48,15,2,monte castro,monte castro
-heladeras,34890.1,39.94,92.79,37.24,108,1,flores,velez sarfield
-webcam,15017.83,77.53,92.4,165.58,108,3,monserrat,parque avellaneda
-molinillos de granos de café,43541.1,99.03,92.3,88.22,94,2,parque chacabuco,villa lugano
-calefones,57465.32,87.62,91.25,89.71,195,3,retiro,villa devoto
-mouse,41727.42,10.73,90.1,93.02,132,2,villa ortuzar,floresta
-parlante,21238.53,69.88,89.99,131.89,38,3,belgrano,villa santarrita
-televisor 62,96808.14,31.3,87.33,61.23,184,1,villa puerryedon,villa del parque
-webcam,26657.65,44.97,87.31,40.5,95,2,villa ortuzar,villa soldati
-mouse,45766.93,20.74,87.26,142.58,34,1,monte castro,flores
-molinillos de granos de café,27265.86,26.85,85.31,95.83,104,1,parque patricios,villa riachuelo
-televisor 62,79705.83,76.16,85.26,103.98,92,2,monte castro,3 de febrero
-televisor 55,113253.4,47.74,84.9,51.6,178,3,floresta,lomas de zamora
-heladeras,31568.23,90.47,84.35,139.7,145,3,la boca,villa puerryedon
-televisor 62,50854.5,22.91,82.99,26.56,93,1,constitucion,agronomia
-calefones,49594.65,35.71,82.29,37.55,53,3,villa ortuzar,villa general mitre
-cafeteras,18438.99,28.92,82.22,55.03,199,1,caballito,la paternal
-televisor 90,82916.79,64.26,82.15,89.06,200,2,lomas de zamora,nueva pompeya
-televisor 68,81632.37,64.55,81.67,107.35,176,1,parque chas,caballito
-teclado,34657.74,92.31,79.94,52.1,42,1,agronomia,parque chacabuco
-computadoras personales,20908.25,51.72,79.8,81.3,185,1,recoleta,san martin
-televisor 52,56517.98,90.7,79.78,152.99,163,1,almagro,lanus
-televisor 90,67419.16,97.27,79.52,175.67,138,2,villa lugano,villa urquiza
-freezers,34416.03,74.34,79.43,171.8,164,1,villa devoto,parque chas
-licuadoras,15223.1,64.33,79.05,74.15,13,3,caballito,villa crespo
-televisor 68,25680.19,26.99,78.16,133.3,41,3,villa puerryedon,villa ortuzar
-televisor 68,39757.75,49.62,77.48,151.21,73,1,villa riachuelo,barracas
-impresoras,44229.55,98.23,77.33,65.84,16,1,mataderos,parque patricios
-televisor 75,29279.1,95.11,75.75,198.7,185,1,nueva pompeya,boedo
-televisor 75,46780.86,14.47,75.6,173.1,198,3,recoleta,almagro
-disco solido,36948.84,67.2,75.02,64.49,27,1,avellaneda,vicente lopez
-televisor 90,116598.01,75.75,74.94,59.43,45,2,avellaneda,avellaneda
-microondas,58699.77,36.23,74.68,13.12,89,2,villa urquiza,coghian
-calefones,18300.56,86.87,74.59,99.22,184,3,villa luro,belgrano
-televisor 82,43386.15,50.35,74.18,35.98,165,1,san nicolas,colegiales
-parlante,15199.88,20.91,73.85,184.2,27,1,la paternal,palermo
-calefones,16327.15,79.31,72.99,87.99,142,3,coghian,la boca
-impresoras,22662.73,47.31,72.72,162.56,17,1,constitucion,san telmo
-freezers,37884.44,95.17,72.36,151.41,147,3,san martin,constitucion
-disco solido,20608.29,30.49,72.22,59.13,145,2,constitucion,san cristobal
-teclado,43398.46,16.48,71.77,196.89,109,3,villa real,balvanera
-televisor 75,81561.72,12.85,71.53,30.55,175,1,villa crespo,recoleta
-televisor 82,38214.21,96.31,70.95,49.4,16,2,parque patricios,saavedra
-televisor 82,90180.73,36.17,70.92,199.68,19,2,puerto madero,nuñez
-computadoras personales,39573.81,28.54,70.39,10.07,154,1,san nicolas,puerto madero
-webcam,45209.85,71.34,70.28,118.48,176,3,villa real,monserrat
-televisor 55,26167.25,13.5,70.23,173.72,83,3,versalles,san nicolas
-termotanques,22839.51,65.93,69.73,11.51,178,3,la paternal,retiro
-televisor 55,108009.6,22.19,69.62,38.14,114,3,velez sarfield,
-exprimidores,28851.29,13.62,69.15,15.92,69,1,belgrano,
-televisor 75,67938.36,89.78,68.95,80.34,74,2,la matanza,
-impresoras,50570.03,76.57,68.94,79.18,44,3,san telmo,
-cafeteras,47197.11,87.3,68.59,75.79,157,3,villa crespo,
-mouse,23332.94,44.9,67.35,76.67,195,2,retiro,
-televisor 68,93479.74,70.37,66.64,24.49,42,1,villa puerryedon,
-webcam,31237.54,71.04,66.28,47.93,198,3,balvanera,
-disco solido,20533.49,52.66,64.93,102.49,106,2,colegiales,
-secarropas,31639.9,26.92,64.79,92.18,96,1,flores,
-televisor 52,105151.41,71.63,64.28,35.88,35,3,san martin,
-secarropas,40613.05,69.24,63.69,189.38,17,3,barracas,
-televisor 90,23682.53,31.15,62.37,156.2,153,3,villa santarrita,
-televisor 55,95857.33,71.06,61.57,119.06,178,2,parque chas,
-licuadoras,37858.64,48.01,61.04,24.64,27,3,la matanza,
-exprimidores,34615.1,93.59,60.92,22.63,27,1,palermo,
-televisor 90,68531.86,24.61,60.71,126.72,150,1,recoleta,
-televisor 75,31433.92,65.62,60.66,93.2,168,3,almagro,
-molinillos de granos de café,33626.73,28.33,60.18,12.4,190,3,palermo,
-disco duro,57984.69,19.49,59.89,41.55,144,2,villa lugano,
-secarropas,45039.93,63.77,58.07,68.36,17,3,monte castro,
-televisor 75,89746.91,73.85,57,10.44,26,1,villa riachuelo,
-heladeras,19541.17,28.33,56.82,165.4,175,1,caballito,
-ralladores,41215.8,11.65,56.8,81.17,121,3,la paternal,
-computadoras personales,54717.03,11.42,56.5,51.66,109,2,almagro,
-webcam,45399.15,34.89,54.93,78.19,78,3,villa santarrita,
-computadoras personales,15387.03,68.73,54.89,34.76,69,2,retiro,
-televisor 68,51125.25,64.93,53.19,27.64,183,1,caballito,
-termotanques,44109.34,32.89,52.47,50.5,65,1,villa ortuzar,
-impresoras,54757,89.61,52.36,38.89,24,3,lanus,
-televisor 82,87914.98,83.86,52.19,101.83,178,2,villa lugano,
-televisor 75,73437.18,84.24,51.38,42.44,183,2,villa puerryedon,
-licuadoras,21852.52,67.56,51.32,98.58,105,2,saavedra,
-televisor 52,28705.62,33.73,50.59,134.41,23,3,villa del parque,
-disco duro,55335.92,36.17,50.28,11.06,11,1,vicente lopez,
-teclado,42994.76,86.75,49.65,129.27,161,2,villa del parque,
-calefones,22230.16,71.16,49.45,27.51,128,3,nueva pompeya,
-televisor 68,27702.2,37.91,48.74,187.66,128,2,san telmo,
-televisor 52,89470.28,52.11,48.71,119.21,28,2,lanus,
-disco solido,54023.97,68.22,47.45,69.48,189,3,nueva pompeya,
-disco duro,36614.98,51.3,47.33,74.63,170,1,palermo,
-disco duro,44677.04,14.25,45.69,86.56,102,3,palermo,
-mouse,35155.38,99.72,45.58,188.68,115,2,velez sarfield,
-ralladores,32753.77,20.78,45.05,84.3,51,3,villa crespo,
-lavarropas,17272.02,80.91,44.37,150.41,105,3,liniers,
-televisor 75,117891.67,65.27,44.2,137.37,158,3,la paternal,
-televisor 62,79845.43,84.5,44.06,153.83,107,2,villa santarrita,
-tostadoras,42472.45,75.89,43.83,34.45,14,3,saavedra,
-televisor 75,38150.19,64.18,43.55,135.88,17,2,vicente lopez,
-parlante,59113.88,12.4,42.12,28.83,52,1,avellaneda,
-cafeteras,46002.09,70.94,41.15,75.37,101,3,villa puerryedon,
-freezers,20731,81.77,39.64,116.73,98,3,villa devoto,
-televisor 68,18908.45,97.31,39,108.65,189,1,lomas de zamora,
-computadoras personales,25962.02,61.37,38.28,28.43,62,1,villa soldati,
-cocinas,44511.22,65.64,37.41,46.2,114,1,san martin,
-parlante,27227.76,31.36,37.19,175.97,131,3,villa urquiza,
-monitor,33346.58,73.36,36.55,136.46,174,3,parque patricios,
-impresoras,25046.97,21.05,35.39,44.54,172,2,lanus,
-cafeteras,52723.81,29.54,34.42,90.57,94,2,saavedra,
-cocinas,43350.08,62.92,34.12,130.85,117,1,caballito,
-disco solido,59593.3,41.8,33.98,145.56,194,1,agronomia,
-mouse,56249.61,36.33,33.97,137.54,78,2,la matanza,
-impresoras,38781.52,51.85,33.4,199.64,174,1,villa lugano,
-televisor 68,80830.48,16.87,33.08,164.24,86,1,caballito,
-televisor 62,117406.25,32.29,32.85,189.56,63,1,avellaneda,
-televisor 90,100152.19,84.93,32.79,187.71,34,3,villa del parque,
-televisor 90,87366.33,19.64,32.74,186.61,35,3,nuniez,
-termotanques,54521.91,89.92,32.17,106.11,62,3,almagro,
-televisor 62,100772.37,73.45,30.77,79.71,173,2,la matanza,
-teclado,41037.03,94.66,29.53,17.7,137,2,san cristobal,
-teclado,18670.07,10.99,28.57,163.86,73,2,mataderos,
-tostadoras,44849.31,11.19,28.45,41.45,97,1,avellaneda,
-teclado,35245.19,76.72,27.77,60.5,89,3,villa puerryedon,
-exprimidores,18017.25,37.02,27.7,78.09,112,3,parque chas,
-televisor 68,103417.21,23.55,27.46,84.75,95,3,nuniez,
-licuadoras,47464.19,91.99,27.01,19.98,75,1,monserrat,
-teclado,32132.39,12.99,26.78,193.64,91,1,villa puerryedon,
-televisor 62,28039.8,87.42,26.48,151.49,17,2,villa real,
-computadoras personales,48766.98,82.38,26.44,10.97,67,2,palermo,
-mouse,51943.96,37.35,25.9,99.15,34,2,avellaneda,
-mouse,57103.96,44.37,25.76,36.43,73,3,parque chacabuco,
-disco solido,17354.11,80.75,25.51,126.65,45,2,3 de febrero,
-computadoras personales,24312.46,19.74,23.97,13.7,130,2,agronomia,
-termotanques,35180.98,10.74,23.56,12.41,126,2,coghian,
-heladeras,40799.59,43.85,22.74,160.67,28,3,vicente lopez,
+producto,precio,ancho,largo,alto,peso,prioridad,barrio
+monitor,18349.89,71.48,99.74,58.58,178,1,comuna 9
+impresoras,57644.43,14.46,99.03,47.06,70,1,comuna 11
+televisor 82,87709.43,34.56,98.13,145.66,108,2,comuna 9
+termotanques,37344.75,38.18,98.01,90.97,84,3,comuna 9
+monitor,36310.15,79.52,98,148.58,147,3,la matanza
+secarropas,32279.94,84.1,97.65,57.06,107,3,comuna 10
+termotanques,42781.24,31.95,94.61,179.48,15,2,comuna 10
+heladeras,34890.1,39.94,92.79,37.24,108,1,comuna 10
+webcam,15017.83,77.53,92.4,165.58,108,3,comuna 9
+molinillos de granos de café,43541.1,99.03,92.3,88.22,94,2,comuna 7
+calefones,57465.32,87.62,91.25,89.71,195,3,comuna 11
+mouse,41727.42,10.73,90.1,93.02,132,2,comuna 10
+parlante,21238.53,69.88,89.99,131.89,38,3,comuna 8
+televisor 62,96808.14,31.3,87.33,61.23,184,1,comuna 6
+webcam,26657.65,44.97,87.31,40.5,95,2,comuna 7
+mouse,45766.93,20.74,87.26,142.58,34,1,comuna 9
+molinillos de granos de café,27265.86,26.85,85.31,95.83,104,1,comuna 8
+televisor 62,79705.83,76.16,85.26,103.98,92,2,tres de febrero
+televisor 55,113253.4,47.74,84.9,51.6,178,3,lomas de zamora
+heladeras,31568.23,90.47,84.35,139.7,145,3,san isidro
+televisor 62,50854.5,22.91,82.99,26.56,93,1,comuna 10
+calefones,49594.65,35.71,82.29,37.55,53,3,moron
+cafeteras,18438.99,28.92,82.22,55.03,199,1,comuna 4
+televisor 90,82916.79,64.26,82.15,89.06,200,2,lomas de zamora
+televisor 68,81632.37,64.55,81.67,107.35,176,1,comuna 3
+teclado,34657.74,92.31,79.94,52.1,42,1,comuna 7
+computadoras personales,20908.25,51.72,79.8,81.3,185,1,comuna 5
+televisor 52,56517.98,90.7,79.78,152.99,163,1,lanus
+televisor 90,67419.16,97.27,79.52,175.67,138,2,comuna 15
+freezers,34416.03,74.34,79.43,171.8,164,1,comuna 8
+licuadoras,15223.1,64.33,79.05,74.15,13,3,comuna 5
+televisor 68,25680.19,26.99,78.16,133.3,41,3,comuna 4
+televisor 68,39757.75,49.62,77.48,151.21,73,1,comuna 10
+impresoras,44229.55,98.23,77.33,65.84,16,1,comuna 11
+televisor 75,29279.1,95.11,75.75,198.7,185,1,comuna 12
+televisor 75,46780.86,14.47,75.6,173.1,198,3,la matanza
+disco solido,36948.84,67.2,75.02,64.49,27,1,vicente lopez
+televisor 90,116598.01,75.75,74.94,59.43,45,2,avellaneda
+microondas,58699.77,36.23,74.68,13.12,89,2,moron
+calefones,18300.56,86.87,74.59,99.22,184,3,comuna 9
+televisor 82,43386.15,50.35,74.18,35.98,165,1,comuna 5
+parlante,15199.88,20.91,73.85,184.2,27,1,comuna 7
+calefones,16327.15,79.31,72.99,87.99,142,3,comuna 8
+impresoras,22662.73,47.31,72.72,162.56,17,1,comuna 5
+freezers,37884.44,95.17,72.36,151.41,147,3,comuna 2
+disco solido,20608.29,30.49,72.22,59.13,145,2,comuna 1
+teclado,43398.46,16.48,71.77,196.89,109,3,comuna 5
+televisor 75,81561.72,12.85,71.53,30.55,175,1,comuna 6
+televisor 82,38214.21,96.31,70.95,49.4,16,2,comuna 7
+televisor 82,90180.73,36.17,70.92,199.68,19,2,comuna 8
+computadoras personales,39573.81,28.54,70.39,10.07,154,1,comuna 1
+webcam,45209.85,71.34,70.28,118.48,176,3,comuna 2
+televisor 55,26167.25,13.5,70.23,173.72,83,3,comuna 2
+termotanques,22839.51,65.93,69.73,11.51,178,3,comuna 8
+televisor 55,108009.6,22.19,69.62,38.14,114,3,comuna 4
+exprimidores,28851.29,13.62,69.15,15.92,69,1,comuna 9
+televisor 75,67938.36,89.78,68.95,80.34,74,2,la matanza
+impresoras,50570.03,76.57,68.94,79.18,44,3,comuna 4
+cafeteras,47197.11,87.3,68.59,75.79,157,3,comuna 2
+mouse,23332.94,44.9,67.35,76.67,195,2,comuna 1
+televisor 68,93479.74,70.37,66.64,24.49,42,1,comuna 2
+webcam,31237.54,71.04,66.28,47.93,198,3,comuna 4
+disco solido,20533.49,52.66,64.93,102.49,106,2,comuna 4
+secarropas,31639.9,26.92,64.79,92.18,96,1,comuna 9
+televisor 52,105151.41,71.63,64.28,35.88,35,3,san martin
+licuadoras,37858.64,48.01,61.04,24.64,27,3,la matanza
+televisor 90,68531.86,24.61,60.71,126.72,150,1,comuna 5
+impresoras,54757,89.61,52.36,38.89,24,3,lanus
+disco duro,55335.92,36.17,50.28,11.06,11,1,vicente lopez
+televisor 52,89470.28,52.11,48.71,119.21,28,2,lanus
+ralladores,32753.77,20.78,45.05,84.3,51,3,comuna 6
+lavarropas,17272.02,80.91,44.37,150.41,105,3,comuna 9
+televisor 75,38150.19,64.18,43.55,135.88,17,2,vicente lopez
+parlante,59113.88,12.4,42.12,28.83,52,1,avellaneda
+televisor 68,18908.45,97.31,39,108.65,189,1,lomas de zamora
+cocinas,44511.22,65.64,37.41,46.2,114,1,san martin
+impresoras,25046.97,21.05,35.39,44.54,172,2,lanus
+mouse,56249.61,36.33,33.97,137.54,78,2,la matanza
+televisor 62,117406.25,32.29,32.85,189.56,63,1,avellaneda
+televisor 62,100772.37,73.45,30.77,79.71,173,2,la matanza
+tostadoras,44849.31,11.19,28.45,41.45,97,1,avellaneda
+mouse,51943.96,37.35,25.9,99.15,34,2,avellaneda
+mouse,57103.96,44.37,25.76,36.43,73,3,san isidro
+disco solido,17354.11,80.75,25.51,126.65,45,2,tres de febrero,
+computadoras personales,24312.46,19.74,23.97,13.7,130,2,comuna 3
+termotanques,35180.98,10.74,23.56,12.41,126,2,comuna 5
+heladeras,40799.59,43.85,22.74,160.67,28,3,comuna 7
 termotanques,42202.19,64.3,22.61,28.54,175,2,san martin,
-televisor 68,63064.18,77.15,22.04,196.2,108,3,villa soldati,
-televisor 90,74701.73,84.4,20.04,67.83,102,2,villa del parque,
-termotanques,41552.4,51.22,19.16,112.84,100,2,parque chacabuco,
-monitor,50682.44,23.93,18.43,184.77,169,2,coghian,
-ralladores,45305.03,96,17.64,38.9,91,2,balvanera,
-disco duro,31105.32,49.54,17.55,106.47,22,1,villa riachuelo,
-computadoras personales,57876.9,28.74,17.49,73.24,193,1,parque avellaneda,
-televisor 68,94232.15,35,17.42,150,51,1,retiro,
-teclado,50531.58,85.34,16.8,11.77,99,2,parque chas,
-secarropas,54316.51,69.85,14.68,74.17,57,1,villa puerryedon,
-calefones,23988.69,47.27,14.53,119.17,135,3,villa riachuelo,
-televisor 68,73231.55,69.13,13.99,72.44,183,2,san nicolas,
-disco duro,47604.17,27.59,13.98,152.35,31,2,retiro,
-mouse,30789.19,46.46,13.61,39.36,77,2,san cristobal,
-teclado,28035.2,38.09,12.98,43.44,199,1,san cristobal,
-tostadoras,59130.8,72.61,11.09,41.17,174,1,parque chacabuco,
-disco solido,51610.36,41.51,10.95,63.54,146,2,la paternal,
-webcam,25959.79,39.19,10.9,88.89,103,2,villa del parque,
-televisor 82,55432.77,27.87,10.27,57.28,25,3,villa santarrita,
-webcam,39249.49,25.51,10.06,98.42,138,2,villa puerryedon,
+televisor 68,63064.18,77.15,22.04,196.2,108,3,comuna 7
+televisor 90,74701.73,84.4,20.04,67.83,102,2,comuna 1
+termotanques,41552.4,51.22,19.16,112.84,100,2,comuna 7
+monitor,50682.44,23.93,18.43,184.77,169,2,comuna 14
+ralladores,45305.03,96,17.64,38.9,91,2,comuna 11
+disco duro,31105.32,49.54,17.55,106.47,22,1,comuna 12
+computadoras personales,57876.9,28.74,17.49,73.24,193,1,comuna 13
+televisor 68,94232.15,35,17.42,150,51,1,vicente lopez
+teclado,50531.58,85.34,16.8,11.77,99,2,comuna 15
+secarropas,54316.51,69.85,14.68,74.17,57,1,comuna 1
+calefones,23988.69,47.27,14.53,119.17,135,3,comuna 3
+televisor 68,73231.55,69.13,13.99,72.44,183,2,comuna 2
+disco duro,47604.17,27.59,13.98,152.35,31,2,lomas de zamora
+mouse,30789.19,46.46,13.61,39.36,77,2,san isidro
+teclado,28035.2,38.09,12.98,43.44,199,1,san martin
+tostadoras,59130.8,72.61,11.09,41.17,174,1,comuna 7
+disco solido,51610.36,41.51,10.95,63.54,146,2,comuna 9
+webcam,25959.79,39.19,10.9,88.89,103,2,comuna 7
+televisor 82,55432.77,27.87,10.27,57.28,25,3,la matanza
+webcam,39249.49,25.51,10.06,98.42,138,2,comuna 8
