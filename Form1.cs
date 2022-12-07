@@ -68,7 +68,7 @@ public partial class Form1 : Form
         cCamioneta camioneta_a_cargar = new cCamioneta();
         camioneta_a_cargar.pedidos=cMochila.KnapSack(lista_normal.ToArray(), 3);
 
-        cFurgoneta furgoneta_a_cargar = new cFurgoneta(new);
+        cFurgoneta furgoneta_a_cargar = new cFurgoneta();
         furgoneta_a_cargar.pedidos= cMochila.KnapSack(lista_normal.ToArray(), 17);
     }
 }
